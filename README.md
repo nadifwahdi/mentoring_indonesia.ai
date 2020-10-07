@@ -1,2 +1,5 @@
-# mentoring_indonesia.ai
-Repository ini adalah repository untuk dokumentasi tugas-tugas saya ketika mengikuti mentoring Advanced Python dengan Indonesia.ai
+# README
+
+## Tentang Repository Ini
+Repository ini adalah repository yang berisi dokumentasi tugas-tugas saya ketika mengikuti mentoring Intermediate Python dengan lembaga Indonesia.ai.
+
